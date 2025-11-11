@@ -64,6 +64,7 @@ python buscador_duplicados_gui.py
 - Permite eliminar los duplicados (manteniendo una copia) y registra los resultados en el LOG.
 
 📄 EJEMPLO DE SALIDA DE LOG
+
 [2025-11-10 14:23:01] Iniciando análisis en: D:\Juegos\Blizzard\Warcraft III\Maps\Download  
 [2025-11-10 14:23:03] Nuevo hash: a3c56f9e1b7d... -> D:\Juegos\Blizzard\Warcraft III\Maps\Download\map1.w3x  
 [2025-11-10 14:23:04] Duplicado encontrado (hash a3c56f9e1b7d...): D:\Juegos\Blizzard\Warcraft III\Maps\Download\map1_copy.w3x  
